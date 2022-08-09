@@ -9,4 +9,8 @@ public class gitDayFirst {
 	private void m2() {
 
 	}
+	
+	private void m3() {
+
+	}
 }
